@@ -1,7 +1,4 @@
 # hello-world
 Short Description
 
-
-My name is Shaun
-I came here to learn how to use Github
-Added description 
+Notes are taken in Jupyter Notebook on Coursera's data engineering specificialization. 
